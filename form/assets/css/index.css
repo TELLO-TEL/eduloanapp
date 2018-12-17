@@ -1,0 +1,132 @@
+.navbar .navbar-brand img {
+    height: 100% !important;
+    max-height: 64px !important;
+}
+
+.navbar .navbar-brand {
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+}
+
+.email-tag {
+
+	float: left !important;
+    width: .75rem !important;
+    height: .75rem !important;
+    margin-left: .25rem !important;
+    margin-top: .25rem !important;
+    margin-right: .875rem !important;
+    border-radius: .375rem !important;
+}
+
+.image-icon {
+
+    text-align: center;
+    font-size: 2.5rem;;
+    line-height: 2.5rem;
+    float: left;
+    width: 2.5rem;
+    height: 2.5rem;
+    opacity: .40;
+      
+}
+
+.kbw-signature { 
+
+    width: 410px; 
+    height: 210px;
+    border-radius: 10px;
+    padding: 5px; 
+    margin-bottom: 5px;
+    border-color: #C8C7CC;
+    
+}
+
+.sig-output {
+    display: block;
+    height: 50px;
+    width: 100px;
+    margin-left: 50px !important;
+    margin-right: 0px !important;
+}
+
+.sig-label {
+    display: block !important;
+}
+
+.submit-footer {
+    height: 100%;
+    width: 100%;
+    display: block;
+    background-color: lightgrey !important;
+}
+
+.submit-btn {
+    
+    margin-left: 35% !important;
+    margin-right: 0px !important;
+
+}
+
+.datepicker-switch {
+    color: #007AFF !important;
+}
+
+td.active.day {
+    background: #007AFF !important;
+}
+
+.dropzone {
+    border: 2px dashed rgba(76,217,100,.5) !important;
+    border-radius: 5px !important;
+    background: rgba(255, 255, 255, .80) !important;
+}
+
+#form-output {
+    background-color: #fff;
+    height: 100% !important;
+    overflow-y: scroll !important;
+} 
+
+#attachments-output {
+    height: 100% !important;
+    overflow-y: scroll !important;
+}
+
+#verification-btn {
+    margin: 0px !important;
+    
+    float: right !important;
+}
+
+#form-verification-header {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.template-list {
+    max-height: 285px !important;
+    overflow-y: scroll;
+}
+
+.register-content {
+    width: 45rem;
+    position: relative !important;
+    left: 0% !important;
+    margin-left: 0px !important; 
+    top: 3.125rem;
+    padding: 0px !important;
+    margin-bottom: 25px !important; 
+}
+
+.modal-list-body .modal-body {
+    padding: 0px !important;
+}
+
+#list-body {
+    padding: 0px !important;
+}
+
+
+
+
