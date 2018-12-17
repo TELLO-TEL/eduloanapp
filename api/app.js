@@ -49,10 +49,10 @@ app.use((err, req, res, next) => {
 
 const port =  process.env.PORT || 3000
 //listening on this   port
-app.listen(port,()=>{
+app.listen(3000,()=>{
 
   console.log(`alive @ ${port}`)
-              
+               
 })
 
 
